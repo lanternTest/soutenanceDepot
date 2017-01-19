@@ -7,6 +7,6 @@ class testMain
 	}
 
 	public void uselessFunction(){
-		System.out.println("no yes");
+		System.out.println("nope");
 	}
 }
